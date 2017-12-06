@@ -1,6 +1,6 @@
-##Tidy data set description
+## Tidy data set description
 
-#The variables in the tidy data
+# The variables in the tidy data
 
 Tidy data contains 180 rows and 68 columns. Each row has averaged variables for each subject and each activity.
 
@@ -18,7 +18,7 @@ WALKING_DOWNSTAIRS
 SITTING
 STANDING
 LAYING
-#The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
+# The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
 
 "activitylabel"
 "subject"
@@ -90,4 +90,4 @@ LAYING
 "fBodyBodyGyroJerkMag-std()"
 variable units
 
-#Activity variable is factor type. Subject variable is integer type. All the other variables are numeric type.
+# Activity variable is factor type. Subject variable is integer type. All the other variables are numeric type.
