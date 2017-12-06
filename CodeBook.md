@@ -19,7 +19,7 @@ Activity column has 6 types as listed below.
 5. STANDING
 6. LAYING
 
-### The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
+### Measurements
 1. "activitylabel"
 2. "subject"
 3. "tBodyAcc-mean()-X"          
